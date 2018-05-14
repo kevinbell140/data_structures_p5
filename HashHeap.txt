@@ -1,0 +1,16 @@
+11,Polk,4,Democrat,Tennessee
+9,Harrison,1,Whig,Ohio
+33,Truman,8,Democrat,Missouri
+42,Clinton,8,Democrat,Arkansas
+18,Grant,8,Republican,Illinois
+21,Arthur,4,Republican,New York
+29,Harding,3,Republican,Ohio
+12,Taylor,1,Whig,Louisiana
+8,Van_Buren,4,Democrat,New York
+10,Tyler,1,Whig,Virginia
+15,Buchanan,4,Democrat,Pennsylvania
+26,Roosevelt,8,Republican,New York
+37,Nixon,5,Republican,California
+39,Carter,4,Democrat,Georgia
+1,Washington,8,Federalist,Virginia
+43,Bush,8,Republican,Texas

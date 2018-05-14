@@ -1,0 +1,9 @@
+D,Lindsey
+A,30,Coolidge,7,Republican,Massachusetts
+D,Roosevelt
+A,35,Kennedy,3,Democrat,Massachusetts
+D,Arthur
+D,Schmukola
+D,Harding
+D,Roosevelt
+A,34,Eisenhower,8,Republican,Kansas
